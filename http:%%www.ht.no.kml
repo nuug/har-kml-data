@@ -39,25 +39,17 @@
 <Placemark>
     
     <description>SE,Stockholm</description>
-    <Point><coordinates>17.9186,59.6519</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NL,Amsterdam</description>
-    <Point><coordinates>4.8896899223328,52.374031066895</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <LineString><coordinates>17.9186,59.6519 4.8896899223328,52.374031066895</coordinates></LineString>
+    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
 </Placemark>
 <Placemark>
     
     <description>SE,Stockholm</description>
-    <Point><coordinates>17.9186,59.6519</coordinates></Point>
+    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
 </Placemark>
 <Placemark>
     
-    <LineString><coordinates>4.8896899223328,52.374031066895 17.9186,59.6519</coordinates></LineString>
+    <description>SE,Stockholm</description>
+    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
 </Placemark>
 
 <Placemark>
@@ -82,71 +74,8 @@
 </Placemark>
 <Placemark>
     
-    <description>SE,Stockholm</description>
-    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <LineString><coordinates>11.1003,60.1939 18.06489944458,59.332580566406</coordinates></LineString>
-</Placemark>
-<Placemark>
-    
-    <description>SE,Stockholm</description>
-    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>SE,Stockholm</description>
-    <Point><coordinates>16.9119,58.7886</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>SE,Stockholm</description>
-    <Point><coordinates>16.9119,58.7886</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>DE,Hamburg</description>
-    <Point><coordinates>10.015339851379,53.57532119751</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <LineString><coordinates>16.9119,58.7886 10.015339851379,53.57532119751</coordinates></LineString>
-</Placemark>
-<Placemark>
-    
-    <description>GB,London</description>
-    <Point><coordinates>-0.12574,51.5085</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <LineString><coordinates>10.015339851379,53.57532119751 -0.12574,51.5085</coordinates></LineString>
-</Placemark>
-<Placemark>
-    
-    <description>GB,London</description>
-    <Point><coordinates>-0.12574,51.5085</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>GB,London</description>
-    <Point><coordinates>-0.190278,51.1481</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>GB,London</description>
-    <Point><coordinates>-0.190278,51.1481</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>GB,London</description>
-    <Point><coordinates>-0.12574000656605,51.508529663086</coordinates></Point>
-</Placemark>
-
-<Placemark>
-    
     <description>NO,Oslo</description>
-    <Point><coordinates>10.75,59.95</coordinates></Point>
+    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
 </Placemark>
 <Placemark>
     
@@ -160,81 +89,12 @@
 </Placemark>
 <Placemark>
     
-    <description>NO,Oslo</description>
-    <Point><coordinates>11.1003,60.1939</coordinates></Point>
+    <description>NO,Nesoddtangen</description>
+    <Point><coordinates>10.659399986267,59.865528106689</coordinates></Point>
 </Placemark>
 <Placemark>
     
-    <description>SE,Stockholm</description>
-    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <LineString><coordinates>11.1003,60.1939 18.06489944458,59.332580566406</coordinates></LineString>
-</Placemark>
-<Placemark>
-    
-    <description>SE,Stockholm</description>
-    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>DK,Glostrup</description>
-    <Point><coordinates>12.39999961853,55.66667175293</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <LineString><coordinates>18.06489944458,59.332580566406 12.39999961853,55.66667175293</coordinates></LineString>
-</Placemark>
-
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>10.75,59.95</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>11.1003,60.1939</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>SE,Stockholm</description>
-    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <LineString><coordinates>11.1003,60.1939 18.06489944458,59.332580566406</coordinates></LineString>
-</Placemark>
-<Placemark>
-    
-    <description>SE,Stockholm</description>
-    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>SE,Stockholm</description>
-    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>SE,Stockholm</description>
-    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>SE,Stockholm</description>
-    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
+    <LineString><coordinates>10.746089935303,59.912731170654 10.659399986267,59.865528106689</coordinates></LineString>
 </Placemark>
 
 <Placemark>
@@ -332,8 +192,94 @@
 </Placemark>
 <Placemark>
     
+    <description>SE,Stockholm</description>
+    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <LineString><coordinates>11.1003,60.1939 18.06489944458,59.332580566406</coordinates></LineString>
+</Placemark>
+<Placemark>
+    
+    <description>SE,Stockholm</description>
+    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>SE,Stockholm</description>
+    <Point><coordinates>16.9119,58.7886</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>SE,Stockholm</description>
+    <Point><coordinates>16.9119,58.7886</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>DK,Copenhagen</description>
+    <Point><coordinates>12.1314,55.5856</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <LineString><coordinates>16.9119,58.7886 12.1314,55.5856</coordinates></LineString>
+</Placemark>
+<Placemark>
+    
+    <description>US,New York</description>
+    <Point><coordinates>-74.006,40.7143</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <LineString><coordinates>12.1314,55.5856 -74.006,40.7143</coordinates></LineString>
+</Placemark>
+<Placemark>
+    
+    <description>US,Chicago</description>
+    <Point><coordinates>-87.8678,42.4219</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <LineString><coordinates>-74.006,40.7143 -87.8678,42.4219</coordinates></LineString>
+</Placemark>
+<Placemark>
+    
+    <description>US,Chicago</description>
+    <Point><coordinates>-87.7522,41.7858</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>US,Chicago</description>
+    <Point><coordinates>-87.9044,41.9794</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>US,Chicago</description>
+    <Point><coordinates>-87.9044,41.9794</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>US,Chicago</description>
+    <Point><coordinates>-87.9044,41.9794</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>US,San Francisco</description>
+    <Point><coordinates>-122.39460754395,37.788463592529</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <LineString><coordinates>-87.9044,41.9794 -122.39460754395,37.788463592529</coordinates></LineString>
+</Placemark>
+
+<Placemark>
+    
     <description>NO,Oslo</description>
-    <Point><coordinates>11.1003,60.1939</coordinates></Point>
+    <Point><coordinates>10.75,59.95</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
 </Placemark>
 <Placemark>
     
@@ -347,6 +293,30 @@
 </Placemark>
 <Placemark>
     
+    <description>NO,Department Of Informatics</description>
+    <Point><coordinates>10.717,59.9435</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <LineString><coordinates>11.1003,60.1939 10.717,59.9435</coordinates></LineString>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.6169,59.8956</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <LineString><coordinates>10.717,59.9435 10.6169,59.8956</coordinates></LineString>
+</Placemark>
+
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.75,59.95</coordinates></Point>
+</Placemark>
+<Placemark>
+    
     <description>NO,Oslo</description>
     <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
 </Placemark>
@@ -354,6 +324,123 @@
     
     <description>NO,Oslo</description>
     <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>11.1003,60.1939</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>SE,Stockholm</description>
+    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <LineString><coordinates>11.1003,60.1939 18.06489944458,59.332580566406</coordinates></LineString>
+</Placemark>
+<Placemark>
+    
+    <description>SE,Stockholm</description>
+    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>SE,Stockholm</description>
+    <Point><coordinates>16.9119,58.7886</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>SE,Stockholm</description>
+    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>SE,Stockholm</description>
+    <Point><coordinates>16.9119,58.7886</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>SE,Stockholm</description>
+    <Point><coordinates>17.9186,59.6519</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>SE,Stockholm</description>
+    <Point><coordinates>17.9186,59.6519</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>SE,Stockholm</description>
+    <Point><coordinates>17.9186,59.6519</coordinates></Point>
+</Placemark>
+
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.75,59.95</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>11.1003,60.1939</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>SE,Stockholm</description>
+    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <LineString><coordinates>11.1003,60.1939 18.06489944458,59.332580566406</coordinates></LineString>
+</Placemark>
+<Placemark>
+    
+    <description>SE,Stockholm</description>
+    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>DE,Frankfurt</description>
+    <Point><coordinates>8.54306,50.0264</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <LineString><coordinates>18.06489944458,59.332580566406 8.54306,50.0264</coordinates></LineString>
+</Placemark>
+<Placemark>
+    
+    <description>DE,Nuremberg</description>
+    <Point><coordinates>11.068329811096,49.447780609131</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <LineString><coordinates>8.54306,50.0264 11.068329811096,49.447780609131</coordinates></LineString>
+</Placemark>
+<Placemark>
+    
+    <description>DE,Nuremberg</description>
+    <Point><coordinates>11.068329811096,49.447780609131</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>DE,Nuremberg</description>
+    <Point><coordinates>11.068329811096,49.447780609131</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>DE,Nuremberg</description>
+    <Point><coordinates>11.068329811096,49.447780609131</coordinates></Point>
 </Placemark>
 
 <Placemark>
@@ -436,181 +523,6 @@
 </Placemark>
 <Placemark>
     
-    <description>NO,Department Of Informatics</description>
-    <Point><coordinates>10.717,59.9435</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <LineString><coordinates>11.1003,60.1939 10.717,59.9435</coordinates></LineString>
-</Placemark>
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>10.6169,59.8956</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <LineString><coordinates>10.717,59.9435 10.6169,59.8956</coordinates></LineString>
-</Placemark>
-
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>10.75,59.95</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>11.1003,60.1939</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>SE,Stockholm</description>
-    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <LineString><coordinates>11.1003,60.1939 18.06489944458,59.332580566406</coordinates></LineString>
-</Placemark>
-<Placemark>
-    
-    <description>SE,Stockholm</description>
-    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>FR,Orleans</description>
-    <Point><coordinates>1.76056,47.9878</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <LineString><coordinates>18.06489944458,59.332580566406 1.76056,47.9878</coordinates></LineString>
-</Placemark>
-<Placemark>
-    
-    <description>FR,Orleans</description>
-    <Point><coordinates>1.76056,47.9878</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NL,Amsterdam</description>
-    <Point><coordinates>4.88969,52.374</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <LineString><coordinates>1.76056,47.9878 4.88969,52.374</coordinates></LineString>
-</Placemark>
-<Placemark>
-    
-    <description>NL,Amsterdam</description>
-    <Point><coordinates>4.76389,52.3086</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NL,Amsterdam</description>
-    <Point><coordinates>4.8896899223328,52.374031066895</coordinates></Point>
-</Placemark>
-
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>10.75,59.95</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>11.1003,60.1939</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>SE,Stockholm</description>
-    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <LineString><coordinates>11.1003,60.1939 18.06489944458,59.332580566406</coordinates></LineString>
-</Placemark>
-<Placemark>
-    
-    <description>SE,Stockholm</description>
-    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>DE,Frankfurt</description>
-    <Point><coordinates>8.54306,50.0264</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <LineString><coordinates>18.06489944458,59.332580566406 8.54306,50.0264</coordinates></LineString>
-</Placemark>
-<Placemark>
-    
-    <description>DE,Nuremberg</description>
-    <Point><coordinates>11.068329811096,49.447780609131</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <LineString><coordinates>8.54306,50.0264 11.068329811096,49.447780609131</coordinates></LineString>
-</Placemark>
-<Placemark>
-    
-    <description>DE,Nuremberg</description>
-    <Point><coordinates>11.068329811096,49.447780609131</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>DE,Nuremberg</description>
-    <Point><coordinates>11.068329811096,49.447780609131</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>DE,Nuremberg</description>
-    <Point><coordinates>11.068329811096,49.447780609131</coordinates></Point>
-</Placemark>
-
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>10.75,59.95</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>11.1003,60.1939</coordinates></Point>
-</Placemark>
-<Placemark>
-    
     <description>SE,Stockholm</description>
     <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
 </Placemark>
@@ -647,179 +559,6 @@
     
     <description>SE,Stockholm</description>
     <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
-</Placemark>
-
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>10.75,59.95</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>11.1003,60.1939</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>SE,Stockholm</description>
-    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <LineString><coordinates>11.1003,60.1939 18.06489944458,59.332580566406</coordinates></LineString>
-</Placemark>
-<Placemark>
-    
-    <description>SE,Stockholm</description>
-    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>SE,Stockholm</description>
-    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>SE,Stockholm</description>
-    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>SE,Stockholm</description>
-    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
-</Placemark>
-
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>10.75,59.95</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>11.1003,60.1939</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>SE,Stockholm</description>
-    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <LineString><coordinates>11.1003,60.1939 18.06489944458,59.332580566406</coordinates></LineString>
-</Placemark>
-<Placemark>
-    
-    <description>DK,Copenhagen</description>
-    <Point><coordinates>12.565529823303,55.675941467285</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <LineString><coordinates>18.06489944458,59.332580566406 12.565529823303,55.675941467285</coordinates></LineString>
-</Placemark>
-<Placemark>
-    
-    <description>GB,London</description>
-    <Point><coordinates>-0.12574,51.5085</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <LineString><coordinates>12.565529823303,55.675941467285 -0.12574,51.5085</coordinates></LineString>
-</Placemark>
-<Placemark>
-    
-    <description>US,Ashburn</description>
-    <Point><coordinates>-77.4875,39.0437</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <LineString><coordinates>-0.12574,51.5085 -77.4875,39.0437</coordinates></LineString>
-</Placemark>
-<Placemark>
-    
-    <description>US,Ashburn</description>
-    <Point><coordinates>-77.4875,39.0437</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>US,Ashburn</description>
-    <Point><coordinates>-77.487487792969,39.043720245361</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>US,Ashburn</description>
-    <Point><coordinates>-77.487487792969,39.043720245361</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>US,Ashburn</description>
-    <Point><coordinates>-77.487487792969,39.043720245361</coordinates></Point>
-</Placemark>
-
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>10.75,59.95</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>11.1003,60.1939</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>11.1003,60.1939</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>11.1003,60.1939</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
 </Placemark>
 
 <Placemark>
@@ -877,575 +616,12 @@
 </Placemark>
 <Placemark>
     
-    <description>GB,London</description>
-    <Point><coordinates>-0.12574,51.5085</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <LineString><coordinates>10.015339851379,53.57532119751 -0.12574,51.5085</coordinates></LineString>
-</Placemark>
-<Placemark>
-    
-    <description>GB,London</description>
-    <Point><coordinates>-0.12574,51.5085</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>GB,London</description>
-    <Point><coordinates>-0.190278,51.1481</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>GB,London</description>
-    <Point><coordinates>-0.190278,51.1481</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>GB,London</description>
-    <Point><coordinates>-0.12574000656605,51.508529663086</coordinates></Point>
-</Placemark>
-
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>10.75,59.95</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>11.1003,60.1939</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>SE,Stockholm</description>
-    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <LineString><coordinates>11.1003,60.1939 18.06489944458,59.332580566406</coordinates></LineString>
-</Placemark>
-<Placemark>
-    
-    <description>SE,Stockholm</description>
-    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>SE,Stockholm</description>
-    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>SE,Stockholm</description>
-    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>SE,Stockholm</description>
-    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
-</Placemark>
-
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>10.75,59.95</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>11.1003,60.1939</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>SE,Stockholm</description>
-    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <LineString><coordinates>11.1003,60.1939 18.06489944458,59.332580566406</coordinates></LineString>
-</Placemark>
-<Placemark>
-    
-    <description>SE,Stockholm</description>
-    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>DE,Frankfurt</description>
-    <Point><coordinates>8.54306,50.0264</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <LineString><coordinates>18.06489944458,59.332580566406 8.54306,50.0264</coordinates></LineString>
-</Placemark>
-<Placemark>
-    
-    <description>DE,Frankfurt</description>
-    <Point><coordinates>8.54306,50.0264</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>DE,Nuremberg</description>
-    <Point><coordinates>11.068329811096,49.447780609131</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <LineString><coordinates>8.54306,50.0264 11.068329811096,49.447780609131</coordinates></LineString>
-</Placemark>
-<Placemark>
-    
-    <description>DE,Nuremberg</description>
-    <Point><coordinates>11.068329811096,49.447780609131</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>DE,Nuremberg</description>
-    <Point><coordinates>11.068329811096,49.447780609131</coordinates></Point>
-</Placemark>
-
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>10.75,59.95</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>11.1003,60.1939</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>SE,Stockholm</description>
-    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <LineString><coordinates>11.1003,60.1939 18.06489944458,59.332580566406</coordinates></LineString>
-</Placemark>
-<Placemark>
-    
-    <description>SE,Stockholm</description>
-    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>FR,Orleans</description>
-    <Point><coordinates>1.76056,47.9878</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <LineString><coordinates>18.06489944458,59.332580566406 1.76056,47.9878</coordinates></LineString>
-</Placemark>
-<Placemark>
-    
-    <description>FR,Orleans</description>
-    <Point><coordinates>1.76056,47.9878</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>SE,Stockholm</description>
-    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <LineString><coordinates>1.76056,47.9878 18.06489944458,59.332580566406</coordinates></LineString>
-</Placemark>
-<Placemark>
-    
-    <description>DK,Glostrup</description>
-    <Point><coordinates>12.39999961853,55.66667175293</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <LineString><coordinates>18.06489944458,59.332580566406 12.39999961853,55.66667175293</coordinates></LineString>
-</Placemark>
-
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>10.75,59.95</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>11.1003,60.1939</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>SE,Stockholm</description>
-    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <LineString><coordinates>11.1003,60.1939 18.06489944458,59.332580566406</coordinates></LineString>
-</Placemark>
-<Placemark>
-    
-    <description>DK,Copenhagen</description>
-    <Point><coordinates>12.565529823303,55.675941467285</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <LineString><coordinates>18.06489944458,59.332580566406 12.565529823303,55.675941467285</coordinates></LineString>
-</Placemark>
-<Placemark>
-    
-    <description>DE,Hamburg</description>
-    <Point><coordinates>10.0153,53.5753</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <LineString><coordinates>12.565529823303,55.675941467285 10.0153,53.5753</coordinates></LineString>
-</Placemark>
-<Placemark>
-    
-    <description>DE,Frankfurt</description>
-    <Point><coordinates>8.68417,50.1155</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <LineString><coordinates>10.0153,53.5753 8.68417,50.1155</coordinates></LineString>
-</Placemark>
-<Placemark>
-    
-    <description>DE,Frankfurt</description>
-    <Point><coordinates>8.68417,50.1155</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>DE,Frankfurt</description>
-    <Point><coordinates>8.68417,50.1155</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>DE,Frankfurt</description>
-    <Point><coordinates>8.68417,50.1155</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>DE,Frankfurt</description>
-    <Point><coordinates>8.68417,50.1155</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>DE,Frankfurt</description>
-    <Point><coordinates>8.68417,50.1155</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>US,Ashburn</description>
-    <Point><coordinates>-77.487487792969,39.043720245361</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <LineString><coordinates>8.68417,50.1155 -77.487487792969,39.043720245361</coordinates></LineString>
-</Placemark>
-<Placemark>
-    
-    <description>GB,London</description>
-    <Point><coordinates>-0.461389,51.4775</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <LineString><coordinates>-77.487487792969,39.043720245361 -0.461389,51.4775</coordinates></LineString>
-</Placemark>
-
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>10.75,59.95</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>11.1003,60.1939</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>SE,Stockholm</description>
-    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <LineString><coordinates>11.1003,60.1939 18.06489944458,59.332580566406</coordinates></LineString>
-</Placemark>
-<Placemark>
-    
-    <description>SE,Stockholm</description>
-    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>SE,Stockholm</description>
-    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>SE,Stockholm</description>
-    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>SE,Stockholm</description>
-    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
-</Placemark>
-
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>10.75,59.95</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>11.1003,60.1939</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>11.1003,60.1939</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>11.1003,60.1939</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
-</Placemark>
-
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>10.75,59.95</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>11.1003,60.1939</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>SE,Stockholm</description>
-    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <LineString><coordinates>11.1003,60.1939 18.06489944458,59.332580566406</coordinates></LineString>
-</Placemark>
-<Placemark>
-    
-    <description>SE,Stockholm</description>
-    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>SE,Stockholm</description>
-    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>SE,Stockholm</description>
-    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>SE,Stockholm</description>
-    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>SE,Stockholm</description>
-    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
-</Placemark>
-
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>10.75,59.95</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>11.1003,60.1939</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>SE,Stockholm</description>
-    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <LineString><coordinates>11.1003,60.1939 18.06489944458,59.332580566406</coordinates></LineString>
-</Placemark>
-<Placemark>
-    
-    <description>SE,Stockholm</description>
-    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>SE,Stockholm</description>
-    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>SE,Stockholm</description>
-    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>SE,Stockholm</description>
-    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
-</Placemark>
-
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>10.75,59.95</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>NO,Oslo</description>
-    <Point><coordinates>11.1003,60.1939</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <description>SE,Stockholm</description>
-    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <LineString><coordinates>11.1003,60.1939 18.06489944458,59.332580566406</coordinates></LineString>
-</Placemark>
-<Placemark>
-    
-    <description>DK,Copenhagen</description>
-    <Point><coordinates>12.565529823303,55.675941467285</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <LineString><coordinates>18.06489944458,59.332580566406 12.565529823303,55.675941467285</coordinates></LineString>
-</Placemark>
-<Placemark>
-    
-    <description>FR,Orleans</description>
-    <Point><coordinates>1.76056,47.9878</coordinates></Point>
-</Placemark>
-<Placemark>
-    
-    <LineString><coordinates>12.565529823303,55.675941467285 1.76056,47.9878</coordinates></LineString>
-</Placemark>
-<Placemark>
-    
     <description>NL,Amsterdam</description>
-    <Point><coordinates>4.88969,52.374</coordinates></Point>
+    <Point><coordinates>4.76389,52.3086</coordinates></Point>
 </Placemark>
 <Placemark>
     
-    <LineString><coordinates>1.76056,47.9878 4.88969,52.374</coordinates></LineString>
+    <LineString><coordinates>10.015339851379,53.57532119751 4.76389,52.3086</coordinates></LineString>
 </Placemark>
 <Placemark>
     
@@ -1454,22 +630,262 @@
 </Placemark>
 <Placemark>
     
-    <description>DE,Berlin</description>
-    <Point><coordinates>13.410530090332,52.524368286133</coordinates></Point>
+    <description>GB,London</description>
+    <Point><coordinates>-0.12574000656605,51.508529663086</coordinates></Point>
 </Placemark>
 <Placemark>
     
-    <LineString><coordinates>4.76389,52.3086 13.410530090332,52.524368286133</coordinates></LineString>
+    <LineString><coordinates>4.76389,52.3086 -0.12574000656605,51.508529663086</coordinates></LineString>
 </Placemark>
 <Placemark>
     
-    <description>DE,Berlin</description>
-    <Point><coordinates>13.410530090332,52.524368286133</coordinates></Point>
+    <description>GB,London</description>
+    <Point><coordinates>-0.12574000656605,51.508529663086</coordinates></Point>
 </Placemark>
 <Placemark>
     
-    <description>DE,Berlin</description>
-    <Point><coordinates>13.410530090332,52.524368286133</coordinates></Point>
+    <description>RU,Moscow</description>
+    <Point><coordinates>37.615558624268,55.752220153809</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <LineString><coordinates>-0.12574000656605,51.508529663086 37.615558624268,55.752220153809</coordinates></LineString>
+</Placemark>
+
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.75,59.95</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>11.1003,60.1939</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Stavanger</description>
+    <Point><coordinates>5.7333202362061,58.970050811768</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <LineString><coordinates>10.746089935303,59.912731170654 5.7333202362061,58.970050811768</coordinates></LineString>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Stavanger</description>
+    <Point><coordinates>5.7333202362061,58.970050811768</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <LineString><coordinates>5.7333202362061,58.970050811768 10.746089935303,59.912731170654</coordinates></LineString>
+</Placemark>
+
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.75,59.95</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>11.1003,60.1939</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>SE,Stockholm</description>
+    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <LineString><coordinates>11.1003,60.1939 18.06489944458,59.332580566406</coordinates></LineString>
+</Placemark>
+<Placemark>
+    
+    <description>SE,Stockholm</description>
+    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>SE,Stockholm</description>
+    <Point><coordinates>16.9119,58.7886</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>SE,Stockholm</description>
+    <Point><coordinates>16.9119,58.7886</coordinates></Point>
+</Placemark>
+
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.75,59.95</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>11.1003,60.1939</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>SE,Stockholm</description>
+    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <LineString><coordinates>11.1003,60.1939 18.06489944458,59.332580566406</coordinates></LineString>
+</Placemark>
+<Placemark>
+    
+    <description>SE,Stockholm</description>
+    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>SE,Stockholm</description>
+    <Point><coordinates>16.9119,58.7886</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>SE,Stockholm</description>
+    <Point><coordinates>16.9119,58.7886</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>SE,Stockholm</description>
+    <Point><coordinates>16.9119,58.7886</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>DE,Frankfurt</description>
+    <Point><coordinates>8.54306,50.0264</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <LineString><coordinates>16.9119,58.7886 8.54306,50.0264</coordinates></LineString>
+</Placemark>
+<Placemark>
+    
+    <description>DE,Frankfurt</description>
+    <Point><coordinates>8.54306,50.0264</coordinates></Point>
+</Placemark>
+
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.75,59.95</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>11.1003,60.1939</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>SE,Stockholm</description>
+    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <LineString><coordinates>11.1003,60.1939 18.06489944458,59.332580566406</coordinates></LineString>
+</Placemark>
+<Placemark>
+    
+    <description>SE,Stockholm</description>
+    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>SE,Stockholm</description>
+    <Point><coordinates>16.9119,58.7886</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>SE,Stockholm</description>
+    <Point><coordinates>16.9119,58.7886</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>SE,Stockholm</description>
+    <Point><coordinates>16.9119,58.7886</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>SE,Stockholm</description>
+    <Point><coordinates>17.9186,59.6519</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>DE,Frankfurt</description>
+    <Point><coordinates>8.54306,50.0264</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <LineString><coordinates>17.9186,59.6519 8.54306,50.0264</coordinates></LineString>
+</Placemark>
+<Placemark>
+    
+    <description>GB,London</description>
+    <Point><coordinates>-0.12574000656605,51.508529663086</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <LineString><coordinates>8.54306,50.0264 -0.12574000656605,51.508529663086</coordinates></LineString>
 </Placemark>
 
 <Placemark>
@@ -1548,8 +964,79 @@
 </Placemark>
 <Placemark>
     
+    <description>SE,Stockholm</description>
+    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <LineString><coordinates>11.1003,60.1939 18.06489944458,59.332580566406</coordinates></LineString>
+</Placemark>
+<Placemark>
+    
+    <description>SE,Stockholm</description>
+    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>SE,Stockholm</description>
+    <Point><coordinates>16.9119,58.7886</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>SE,Stockholm</description>
+    <Point><coordinates>16.9119,58.7886</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>DE,Hamburg</description>
+    <Point><coordinates>10.015339851379,53.57532119751</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <LineString><coordinates>16.9119,58.7886 10.015339851379,53.57532119751</coordinates></LineString>
+</Placemark>
+<Placemark>
+    
+    <description>NL,Amsterdam</description>
+    <Point><coordinates>4.8896899223328,52.374031066895</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <LineString><coordinates>10.015339851379,53.57532119751 4.8896899223328,52.374031066895</coordinates></LineString>
+</Placemark>
+<Placemark>
+    
+    <description>NL,Amsterdam</description>
+    <Point><coordinates>4.8896899223328,52.374031066895</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>GB,London</description>
+    <Point><coordinates>-0.12574000656605,51.508529663086</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <LineString><coordinates>4.8896899223328,52.374031066895 -0.12574000656605,51.508529663086</coordinates></LineString>
+</Placemark>
+<Placemark>
+    
+    <description>RU,Moscow</description>
+    <Point><coordinates>37.615558624268,55.752220153809</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <LineString><coordinates>-0.12574000656605,51.508529663086 37.615558624268,55.752220153809</coordinates></LineString>
+</Placemark>
+
+<Placemark>
+    
     <description>NO,Oslo</description>
-    <Point><coordinates>11.1003,60.1939</coordinates></Point>
+    <Point><coordinates>10.75,59.95</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
 </Placemark>
 <Placemark>
     
@@ -1563,6 +1050,49 @@
 </Placemark>
 <Placemark>
     
+    <description>SE,Stockholm</description>
+    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <LineString><coordinates>11.1003,60.1939 18.06489944458,59.332580566406</coordinates></LineString>
+</Placemark>
+<Placemark>
+    
+    <description>SE,Stockholm</description>
+    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>SE,Stockholm</description>
+    <Point><coordinates>17.9186,59.6519</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NL,Amsterdam</description>
+    <Point><coordinates>4.8896899223328,52.374031066895</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <LineString><coordinates>17.9186,59.6519 4.8896899223328,52.374031066895</coordinates></LineString>
+</Placemark>
+<Placemark>
+    
+    <description>SE,Stockholm</description>
+    <Point><coordinates>17.9186,59.6519</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <LineString><coordinates>4.8896899223328,52.374031066895 17.9186,59.6519</coordinates></LineString>
+</Placemark>
+
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.75,59.95</coordinates></Point>
+</Placemark>
+<Placemark>
+    
     <description>NO,Oslo</description>
     <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
 </Placemark>
@@ -1570,6 +1100,387 @@
     
     <description>NO,Oslo</description>
     <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>11.1003,60.1939</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>SE,Stockholm</description>
+    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <LineString><coordinates>11.1003,60.1939 18.06489944458,59.332580566406</coordinates></LineString>
+</Placemark>
+<Placemark>
+    
+    <description>DK,Copenhagen</description>
+    <Point><coordinates>12.565529823303,55.675941467285</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <LineString><coordinates>18.06489944458,59.332580566406 12.565529823303,55.675941467285</coordinates></LineString>
+</Placemark>
+<Placemark>
+    
+    <description>DE,Hamburg</description>
+    <Point><coordinates>10.0153,53.5753</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <LineString><coordinates>12.565529823303,55.675941467285 10.0153,53.5753</coordinates></LineString>
+</Placemark>
+<Placemark>
+    
+    <description>DE,Frankfurt</description>
+    <Point><coordinates>8.68417,50.1155</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <LineString><coordinates>10.0153,53.5753 8.68417,50.1155</coordinates></LineString>
+</Placemark>
+<Placemark>
+    
+    <description>DE,Frankfurt</description>
+    <Point><coordinates>8.68417,50.1155</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>US,Ashburn</description>
+    <Point><coordinates>-77.487487792969,39.043720245361</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <LineString><coordinates>8.68417,50.1155 -77.487487792969,39.043720245361</coordinates></LineString>
+</Placemark>
+<Placemark>
+    
+    <description>US,Ashburn</description>
+    <Point><coordinates>-77.487487792969,39.043720245361</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>US,Ashburn</description>
+    <Point><coordinates>-77.487487792969,39.043720245361</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>US,Ashburn</description>
+    <Point><coordinates>-77.487487792969,39.043720245361</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>US,Wilmington</description>
+    <Point><coordinates>-75.554298400879,39.749801635742</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <LineString><coordinates>-77.487487792969,39.043720245361 -75.554298400879,39.749801635742</coordinates></LineString>
+</Placemark>
+<Placemark>
+    
+    <description>US,Wilmington</description>
+    <Point><coordinates>-75.554298400879,39.749801635742</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>US,Wilmington</description>
+    <Point><coordinates>-75.554298400879,39.749801635742</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>US,Wilmington</description>
+    <Point><coordinates>-75.554298400879,39.749801635742</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>US,Wilmington</description>
+    <Point><coordinates>-75.554298400879,39.749801635742</coordinates></Point>
+</Placemark>
+
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.75,59.95</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>11.1003,60.1939</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.75,59.95</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.75,59.95</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Trondheim</description>
+    <Point><coordinates>10.395059585571,63.430488586426</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <LineString><coordinates>10.746089935303,59.912731170654 10.395059585571,63.430488586426</coordinates></LineString>
+</Placemark>
+
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.75,59.95</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>11.1003,60.1939</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>SE,Stockholm</description>
+    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <LineString><coordinates>11.1003,60.1939 18.06489944458,59.332580566406</coordinates></LineString>
+</Placemark>
+<Placemark>
+    
+    <description>SE,Stockholm</description>
+    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>SE,Stockholm</description>
+    <Point><coordinates>17.9186,59.6519</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NL,Amsterdam</description>
+    <Point><coordinates>4.8896899223328,52.374031066895</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <LineString><coordinates>17.9186,59.6519 4.8896899223328,52.374031066895</coordinates></LineString>
+</Placemark>
+<Placemark>
+    
+    <description>SE,Stockholm</description>
+    <Point><coordinates>17.9186,59.6519</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <LineString><coordinates>4.8896899223328,52.374031066895 17.9186,59.6519</coordinates></LineString>
+</Placemark>
+
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.75,59.95</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>11.1003,60.1939</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>SE,Stockholm</description>
+    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <LineString><coordinates>11.1003,60.1939 18.06489944458,59.332580566406</coordinates></LineString>
+</Placemark>
+<Placemark>
+    
+    <description>SE,Stockholm</description>
+    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>SE,Stockholm</description>
+    <Point><coordinates>17.9186,59.6519</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NL,Amsterdam</description>
+    <Point><coordinates>4.8896899223328,52.374031066895</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <LineString><coordinates>17.9186,59.6519 4.8896899223328,52.374031066895</coordinates></LineString>
+</Placemark>
+<Placemark>
+    
+    <description>SE,Stockholm</description>
+    <Point><coordinates>17.9186,59.6519</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <LineString><coordinates>4.8896899223328,52.374031066895 17.9186,59.6519</coordinates></LineString>
+</Placemark>
+
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.75,59.95</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>11.1003,60.1939</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>DK,Tranbjerg</description>
+    <Point><coordinates>10.11937046051,56.090099334717</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <LineString><coordinates>10.746089935303,59.912731170654 10.11937046051,56.090099334717</coordinates></LineString>
+</Placemark>
+<Placemark>
+    
+    <description>DK,Copenhagen</description>
+    <Point><coordinates>12.565529823303,55.675941467285</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <LineString><coordinates>10.11937046051,56.090099334717 12.565529823303,55.675941467285</coordinates></LineString>
+</Placemark>
+<Placemark>
+    
+    <description>DK,Herning</description>
+    <Point><coordinates>8.9737796783447,56.139320373535</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <LineString><coordinates>12.565529823303,55.675941467285 8.9737796783447,56.139320373535</coordinates></LineString>
+</Placemark>
+
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.75,59.95</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>11.1003,60.1939</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>SE,Stockholm</description>
+    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <LineString><coordinates>11.1003,60.1939 18.06489944458,59.332580566406</coordinates></LineString>
+</Placemark>
+<Placemark>
+    
+    <description>SE,Stockholm</description>
+    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>SE,Stockholm</description>
+    <Point><coordinates>17.9186,59.6519</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NL,Amsterdam</description>
+    <Point><coordinates>4.8896899223328,52.374031066895</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <LineString><coordinates>17.9186,59.6519 4.8896899223328,52.374031066895</coordinates></LineString>
+</Placemark>
+<Placemark>
+    
+    <description>SE,Stockholm</description>
+    <Point><coordinates>17.9186,59.6519</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <LineString><coordinates>4.8896899223328,52.374031066895 17.9186,59.6519</coordinates></LineString>
 </Placemark>
 
 <Placemark>
@@ -1629,32 +1540,162 @@
 </Placemark>
 <Placemark>
     
-    <description>SE,Stockholm</description>
-    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
 </Placemark>
 <Placemark>
     
-    <LineString><coordinates>11.1003,60.1939 18.06489944458,59.332580566406</coordinates></LineString>
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
 </Placemark>
 <Placemark>
     
-    <description>SE,Stockholm</description>
-    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
+    <description>NO,Stavanger</description>
+    <Point><coordinates>5.7333202362061,58.970050811768</coordinates></Point>
 </Placemark>
 <Placemark>
     
-    <description>SE,Stockholm</description>
-    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
+    <LineString><coordinates>10.746089935303,59.912731170654 5.7333202362061,58.970050811768</coordinates></LineString>
 </Placemark>
 <Placemark>
     
-    <description>SE,Stockholm</description>
-    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
+    <description>NO,Stavanger</description>
+    <Point><coordinates>5.7333202362061,58.970050811768</coordinates></Point>
+</Placemark>
+
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.75,59.95</coordinates></Point>
 </Placemark>
 <Placemark>
     
-    <description>SE,Stockholm</description>
-    <Point><coordinates>18.06489944458,59.332580566406</coordinates></Point>
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>11.1003,60.1939</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Stavanger</description>
+    <Point><coordinates>5.7333202362061,58.970050811768</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <LineString><coordinates>10.746089935303,59.912731170654 5.7333202362061,58.970050811768</coordinates></LineString>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Stavanger</description>
+    <Point><coordinates>5.7333202362061,58.970050811768</coordinates></Point>
+</Placemark>
+
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.75,59.95</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>11.1003,60.1939</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Nesoddtangen</description>
+    <Point><coordinates>10.659399986267,59.865528106689</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <LineString><coordinates>10.746089935303,59.912731170654 10.659399986267,59.865528106689</coordinates></LineString>
+</Placemark>
+
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.75,59.95</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>11.1003,60.1939</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Oslo</description>
+    <Point><coordinates>10.746089935303,59.912731170654</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Stavanger</description>
+    <Point><coordinates>5.7333202362061,58.970050811768</coordinates></Point>
+</Placemark>
+<Placemark>
+    
+    <LineString><coordinates>10.746089935303,59.912731170654 5.7333202362061,58.970050811768</coordinates></LineString>
+</Placemark>
+<Placemark>
+    
+    <description>NO,Stavanger</description>
+    <Point><coordinates>5.7333202362061,58.970050811768</coordinates></Point>
 </Placemark>
 </Document>
 </kml>
